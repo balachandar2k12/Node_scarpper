@@ -17,7 +17,7 @@ function db_insert(table, val) {
       //client.query(sql);
       });
  }
-fetch base urls
+//fetch base urls
 request({
   uri: request_uri
   }, function(error, response, body) {
